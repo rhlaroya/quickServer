@@ -9,7 +9,7 @@
             {"Name": "Mobile", "Resolution": "1040x720"}
         ]},
         {"URLid": 3, "downloadLink":"http://", "URL": "http://aetna.com", "Children": "False", "Viewports": [
-            {"Name": "Tablet", "Resolution": "800x1280"},
+            {"Name": "Tablet", "Resolution": "800x1280"}
         ]},
         {"URLid": 4, "downloadLink":"http://", "URL": "http://walgreens.com", "Children": "False", "Viewports": [
             {"Name": "Mobile", "Resolution": "1040x720"}
